@@ -29,8 +29,8 @@ API REST développée avec **Symfony 7** et **PHP 8.2**, testable ia **Postman**
 ## Installation
 
 ```bash
-git clone
-cd 
+git clone git@github.com:habibahdev/social-api.git
+cd social-api
 composer install
 composer prepare
 symfony serve -d
